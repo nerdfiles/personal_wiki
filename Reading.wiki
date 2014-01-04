@@ -1,0 +1,21 @@
+= [[Reading]] =
+
+== Articles ==
+
+    * [ ] http://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/
+    * [ ] http://www.nytimes.com/2014/01/03/opinion/fired-speak-no-evil.html
+    * [ ] http://www.washingtonpost.com/world/national-security/nsa-seeks-to-build-quantum-computer-that-could-crack-most-types-of-encryption/2014/01/02/8fff297e-7195-11e3-8def-a33011492df2_print.html
+    *
+
+== Essays ==
+
+    * [ ] http://www.marco-learningsystems.com/pages/david-zigmond/v3-shadow-of-venus.htm
+    * [ ] http://orthosphere.org/2012/03/07/liberalism-as-cultural-atavism-voegelins-theory-of-gnostic-modernity-and-girards-theory-of-sacrifice-3/
+
+== Programming ==
+
+    * [ ] http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/?ModPagespeed=noscript
+
+== Navigation ==
+
+    # [[index]]
